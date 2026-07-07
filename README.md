@@ -23,7 +23,7 @@ These KPIs help users quickly understand the overall tournament performance.
 
 ## 🎯 Project Objectives
 
-- Analyze IPL data using an interactive dashboard.
+- Analyze IPL data using an interactive dashboard
 - Track key metrics such as runs, wickets, and strike rate  
 - Compare player and team performances  
 - Identify trends and patterns across seasons  
