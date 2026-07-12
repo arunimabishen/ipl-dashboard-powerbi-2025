@@ -1,4 +1,4 @@
-# 🏏 IPL Dashboard — Power BI Analytics
+# 🏏 IPL Dashboard — Power BI Analytics.
 
 ## 📊 Overview
 
