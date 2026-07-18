@@ -111,6 +111,6 @@ The model follows a structured approach to improve performance and usability.
 
 ---
 
-## 📌 Note
+## Note
 
 This project is created for **portfolio and learning purposes** to demonstrate data analysis and visualization skills using Power BI.
