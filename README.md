@@ -1,13 +1,13 @@
 # 🏏 IPL Dashboard — Power BI Analytics.
 
-## 📊 Overview
+## Overview
 
 This project presents an **interactive Power BI dashboard** designed to analyze Indian Premier League (IPL) data.  
 It provides insights into player performance, team statistics, and match trends using data visualization and analytics techniques.
 
 The dashboard enables users to explore key metrics, identify patterns, and make data-driven observations.
 
-## 📌 Key Metrics (KPI Cards)
+## Key Metrics (KPI Cards)
 
 The dashboard highlights important performance indicators at a glance:
 
@@ -21,7 +21,7 @@ These KPIs help users quickly understand the overall tournament performance.
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Analyze IPL data using an interactive dashboard
 - Track key metrics such as runs, wickets, and strike rate  
@@ -30,9 +30,9 @@ These KPIs help users quickly understand the overall tournament performance.
 
 ---
 
-## 📑 Dashboard Structure
+## Dashboard Structure
 
-### 🔹 1. Overview Page
+###  1. Overview Page
 
 - Summary of matches, runs, and wickets  
 - Season-wise trends  
@@ -43,7 +43,7 @@ These KPIs help users quickly understand the overall tournament performance.
 
 ---
 
-### 🔹 2. Player Analysis
+###  2. Player Analysis
 
 - Top run scorers  
 - Strike rate comparison  
@@ -54,7 +54,7 @@ These KPIs help users quickly understand the overall tournament performance.
 
 ---
 
-### 🔹 3. Team Analysis
+###  3. Team Analysis
 
 - Team performance comparison  
 - Win percentage analysis  
@@ -65,7 +65,7 @@ These KPIs help users quickly understand the overall tournament performance.
 
 ---
 
-## 🧩 Data Model
+## Data Model
 
 The dashboard is built using a **relational data model** that connects multiple tables such as:
 
@@ -83,7 +83,7 @@ The model follows a structured approach to improve performance and usability.
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - Identification of top-performing players  
 - Teams with the highest win percentages  
@@ -92,7 +92,7 @@ The model follows a structured approach to improve performance and usability.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology   | Description |
 |-------------|------------|
@@ -103,7 +103,7 @@ The model follows a structured approach to improve performance and usability.
 
 ---
 
-## 📂 How to Use
+## How to Use
 
 1. Download the `.pbix` file  
 2. Open it in Power BI Desktop  
