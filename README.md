@@ -5,7 +5,7 @@
 This project presents an **interactive Power BI dashboard** designed to analyze Indian Premier League (IPL) data.  
 It provides insights into player performance, team statistics, and match trends using data visualization and analytics techniques.
 
-The dashboard enables users to explore key metrics, identify patterns, and make data-driven observations.
+The dashboard enables users to explore key metrics, identify patterns, and make data-driven observations
 
 ## Key Metrics (KPI Cards)
 
